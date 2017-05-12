@@ -1,0 +1,3 @@
+PATH = C:/Program Files (x86)/Mission Planner
+latitude = 40.902112
+longitude = -74.033225
